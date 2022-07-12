@@ -36,21 +36,26 @@ Para los ejercicios vas a trabajar con una pareja a través de videollamada. El 
 La idea del trabajo en parejas es que haya **una persona que dicta y otra que escribe**. Idealmente la persona que dicta sabe cómo hacer el ejercicio y la persona que escribe va aprendiendo y ayuda a corregir. Sin embargo, en este proceso de aprendizaje es posible el trabajo en parejas sea un poco caótico y que los dos terminen escribiendo, tienen que ir encontrando la mejor forma de trabajo.
 
 ## Temas
-* Tipos de datos en JS
-* Variables
-* Arreglos
-* Ciclos
-* Flujos
-* Objetos literales
-* Funciones
-* Cómo resolver problemas de programación
-* Errores a evitar en tu prueba y entrevista técnica del TOP
+
+- Tipos de datos en JS
+- Variables
+- Arreglos
+- Ciclos
+- Flujos
+- Objetos literales
+- Funciones
+- Cómo resolver problemas de programación
+- Errores a evitar en tu prueba y entrevista técnica del TOP
 
 ## Ejercicios
 
+- [Día 1](/dia-1.md)
+- [Día 2](/dia-2.md)
+
 ## Sesiones grabadas
 
-
+- [Sesión 1](https://makeitreal.s3.amazonaws.com/videos/86558228055/2022-07-12/tSxnOeEEP.mp4) - [Presentación](https://drive.google.com/file/d/1poJFithyOrFh6alfjsWUeeANVpSZqrc6/view?usp=sharing)
 
 ## Déjanos saber que hiciste el curso
+
 Llena el siguiente formulario para que la persona que evalúe tu prueba técnica y entrevista sepa que hiciste el curso de preparación. [Informar que hice el curso de preparación](https://docs.google.com/forms/d/10RSESKufKfcrDhg1fqvTy4jt_XJisz_fgL5vep2yZK8/edit?edit_requested=true#responses)
