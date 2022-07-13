@@ -22,7 +22,7 @@ Todas las herramientas que utilizaremos son gratuitas y las encuentras en Intern
 - Utilizaremos la herramienta [Replit](https://replit.com/), que permite escribir, ejecutar y evaluar el código que escribas.
 - Las [Guías de Make It Real](https://guias.makeitreal.camp/javascript-i) - te servirán como recurso de apoyo.
 - En el [Foro de Make It Real](https://foro.makeitreal.camp/c/preparacion-top-julio-2022/15) - podrás hacer tus preguntas y compartir tus soluciones a los ejercicios.
-- Podrás [ingresar a las clases en este link](https://us02web.zoom.us/j/86558228055)
+- Podrás [ingresar a las clases en este link](https://us02web.zoom.us/j/86558228055?pwd=NFc5Wm5CaVo4c2dWUERzbXJ1OGY5Zz09)
 - Ejercicios en parejas - al final de algunas sesiones deberás entrar al [generador de parejas de Make It Real](https://go.makeitreal.camp/) para que aleatoriamente encuentres pareja de trabajo en cada sesión.
 
 ## Trabajo en parejas (pair programming)
@@ -55,6 +55,7 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 ## Sesiones grabadas
 
 - [Sesión 1](https://makeitreal.s3.amazonaws.com/videos/86558228055/2022-07-12/tSxnOeEEP.mp4) - [Presentación](https://drive.google.com/file/d/1poJFithyOrFh6alfjsWUeeANVpSZqrc6/view?usp=sharing)
+- [Sesión 2](https://makeitreal.s3.amazonaws.com/videos/86558228055/2022-07-13/1nbywFAZx.mp4) - [Presentación](https://drive.google.com/file/d/1Htv29N6x1bmzZJPNVawqZHyJAcemgNde/view?usp=sharing) - [Replit](https://replit.com/@Goye/Dia-1#index.js)
 
 ## Déjanos saber que hiciste el curso
 
